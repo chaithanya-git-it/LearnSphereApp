@@ -1,0 +1,7 @@
+*.html linguist-vendored
+*.json linguist-vendored
+android/* linguist-vendored
+ios/* linguist-vendored
+builds/* linguist-vendored
+demo/* linguist-vendored
+screenshots/* linguist-vendored
